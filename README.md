@@ -1,5 +1,15 @@
 # Exauth
 
+## Included APIs List
+
+  * Users Authentication Apis
+  * About us
+  * Portfolios
+  * Services
+  * Skills
+  * Testimonials
+  * Social Icons
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
