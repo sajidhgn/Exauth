@@ -10,6 +10,8 @@
   * Testimonials
   * Social Icons
 
+### Setup Procedure with MakeFILE
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
